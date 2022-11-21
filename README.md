@@ -5,10 +5,10 @@
 This is Finance tracker made in Excel which displays monthly Income and Expenses of Mr. John Doe 
 in table as well as through visualizations.
 The workbook has 4 worksheets namely: <br>
-    •**Pivot Tables** : This sheet contains the various Pivot tables from which the values are taken for the preparing the dashboard and reports. <br>
-    •**Income & Expenses** : The monthly Income and Expenses report which is divided according to its respective categories. <br>
-    •**Assets and Goals** : This sheet contains a small report on the Assets and Income goals of Mr. John. <br>
-    •**Dashboard** : This is the Dashboard which displays all the elemnts such as Assets, Income sources, Expenses, Available balance and Net Worth etc. <br>
+&nbsp; &nbsp; &nbsp;    •**Pivot Tables** : This sheet contains the various Pivot tables from which the values are taken for the preparing the dashboard and reports. <br> <br>
+&nbsp; &nbsp; &nbsp;    •**Income & Expenses** : The monthly Income and Expenses report which is divided according to its respective categories. <br> <br>
+&nbsp; &nbsp; &nbsp;    •**Assets and Goals** : This sheet contains a small report on the Assets and Income goals of Mr. John. <br> <br>
+&nbsp; &nbsp; &nbsp;    •**Dashboard** : This is the Dashboard which displays all the elemnts such as Assets, Income sources, Expenses, Available balance and Net Worth etc. <br> <br>
 This project was made using a mock dataset from www.other-levels.com.
 The features of the workbook are further explained below.
 
