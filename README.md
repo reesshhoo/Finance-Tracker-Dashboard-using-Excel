@@ -31,6 +31,7 @@ Note :- Since this report is amde using a made-up dataset, some values like that
 ## Dashboard
 
 <img width="583" alt="image" src="https://user-images.githubusercontent.com/91539490/203107959-47a18649-0626-4916-b9af-4b60d58252c9.png">
+![image](https://user-images.githubusercontent.com/91539490/203107959-47a18649-0626-4916-b9af-4b60d58252c9.png)
 This is the image of the dashboard that displays all the information regarding the Income and expenses and Assets and goals of Mr.John.
 The Credit Card syled panel shows the avaliable balance on every month after adding the income and deducting the expenses. The monthly Income and expenses have also been visualized using a line chart in the dashboard.
 There is a slicer available is the main panel through which we can view the income and expenses of different months by selecting the month for which we wan to see the same. We can view the income of every month from various sources in teh bottom of the dashboard as well as all the categories of expenses and the amount spent on them. The total Net Worth is also visible in the mentioned panel.
@@ -40,4 +41,4 @@ The notification tab on the right side of the dashboard displays how many bills 
 
 ## Concluding Remarks
 
-If you liked this small Peoject on Excel, please give it a star and follow for more such upcoming projects.
+If you liked this small Project on Excel, please give it a star and follow for more such upcoming projects.
